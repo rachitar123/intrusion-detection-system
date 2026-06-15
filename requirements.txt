@@ -1,0 +1,10 @@
+numpy==1.26.4
+pandas
+scikit-learn
+imbalanced-learn
+torch
+matplotlib
+seaborn
+shap==0.41.0
+requests
+urllib3
